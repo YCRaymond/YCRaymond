@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm YCRaymond who founded this AI.
+(> w <)
 
 <!--
 **YCRaymond/YCRaymond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
